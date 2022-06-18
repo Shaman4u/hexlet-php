@@ -1,0 +1,15 @@
+{
+    "name": "shaman/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Shaman\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shaman4u",
+            "email": "lebedevdmi3y@gmail.com"
+        }
+    ],
+    "require": {}
+}
